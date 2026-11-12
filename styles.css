@@ -481,6 +481,12 @@ h2.section {
   color: var(--muted);
 }
 
+.icon {
+  display: block;
+  color: var(--accent);
+  margin-bottom: 0.75rem;
+}
+
 .prose-note {
   max-width: var(--measure);
   font-family: var(--serif);
